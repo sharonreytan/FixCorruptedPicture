@@ -1,7 +1,3 @@
-# details = ("307923151","Sharon","Reytan")
-# partner = ("208455600","Ron","Katz")
-
-
 import copy
 import numpy as np
 import cv2
